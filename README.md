@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://te.legra.ph/file/c6e1041c6c9a12913f57a.png"></a></p>
+<p align="center"><a href="https://t.me/zaynxop"><img src="https://telegra.ph/file/997903336de5e2d0fe551.png"></a></p>
 
 
 
@@ -13,7 +13,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrAdityaXD/AdityaPlayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iamdivyeshh/zaynvcmusic)
 
 
 
@@ -25,4 +25,4 @@
 
 ### Copy Pasters You Can Copy This But Must Give Credits ...
 
-#### Main Developer = [Aditya](https://t.me/AdityaHalder)
+#### Main Developer = [𓆩 乙Λϒᮘ 𓆪‌‌‌‌ ✘⁪⁬⁮⁮⁮⁮ ⪨ ᎧᎮܔ ⪩ ›➤](https://t.me/zaynxop)
